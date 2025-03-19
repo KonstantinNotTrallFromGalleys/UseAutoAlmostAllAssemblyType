@@ -1,0 +1,15 @@
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\bin\Debug\net8.0\UseAutoAlmostAllAssemblyType.exe
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\bin\Debug\net8.0\UseAutoAlmostAllAssemblyType.deps.json
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\bin\Debug\net8.0\UseAutoAlmostAllAssemblyType.runtimeconfig.json
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\bin\Debug\net8.0\UseAutoAlmostAllAssemblyType.dll
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\bin\Debug\net8.0\UseAutoAlmostAllAssemblyType.pdb
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\obj\Debug\net8.0\UseAutoAlmostAllAssemblyType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\obj\Debug\net8.0\UseAutoAlmostAllAssemblyType.AssemblyInfoInputs.cache
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\obj\Debug\net8.0\UseAutoAlmostAllAssemblyType.AssemblyInfo.cs
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\obj\Debug\net8.0\UseAutoAlmostAllAssemblyType.csproj.CoreCompileInputs.cache
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\obj\Debug\net8.0\UseAutoAlmostAllAssemblyType.sourcelink.json
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\obj\Debug\net8.0\UseAutoAlmostAllAssemblyType.dll
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\obj\Debug\net8.0\refint\UseAutoAlmostAllAssemblyType.dll
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\obj\Debug\net8.0\UseAutoAlmostAllAssemblyType.pdb
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\obj\Debug\net8.0\UseAutoAlmostAllAssemblyType.genruntimeconfig.cache
+C:\Users\rakit\source\repos\FourthStepForStudy\ConsoleApp1\obj\Debug\net8.0\ref\UseAutoAlmostAllAssemblyType.dll
