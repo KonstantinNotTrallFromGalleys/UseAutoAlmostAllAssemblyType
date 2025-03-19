@@ -12,7 +12,7 @@ class UseAutoAlmostAllAssemblyType
         int value;
 
         //получить всю информацию о сборке
-        Assembly assembly = Assembly.LoadFrom(@"C:\Users\rakit\source\repos\FourthStepForStudy\ExampleForDynamicTypeID\bin\Debug\net8.0\ExampleForDynamicTypeID.dll");
+        Assembly assembly = Assembly.LoadFrom(@"//пусть к длл");
 
         //получть из всей информации только данные о типах
         Type[] alltype = assembly.GetTypes();
